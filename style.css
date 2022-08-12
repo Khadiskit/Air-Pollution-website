@@ -1,0 +1,146 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: white; 
+}
+
+/* STYLE TEXT */
+h2 {
+  background-color:black; 
+  font-size:23px;
+  text-align:center;
+  color:white;
+  margin-top:2em;
+  margin-bottom:2em;
+  padding: 20px 20px;
+}
+.awarness {
+text-align: center; 
+  font-size: 25px;
+  margin-top: 2em;
+  list-style-type: circle;
+  
+}
+.info {
+  text-align:center;
+  margin-top:2em;
+  margin-right:2em;
+  margin-left:2em;
+  font-size: 20px;
+    font-family:"Times New Roman", Times, serif
+/*  margin-left:5em;
+  margin-right:5em;*/
+}
+#header {
+  margin-top: 10px;
+  margin-bottom:10px;
+padding: 20px 20px;
+}
+h1 {
+  color: white;
+   background-image: linear-gradient(to right, #abd26a, #9df6c7);
+
+  background-color:;
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  margin top: 5em;
+
+}
+.intro {
+  text-align: center;
+  margin-top: 2em;
+  font-size:25px;
+  background-image: linear-gradient(to right, #1f84d1, #5c5f60);
+  color:white;
+  padding:30px 30px;
+}
+.bio {
+  text-align: center;
+  padding:10px;
+  border: 15px solid #2a698999;
+  margin-bottom: 1em; /* might delete later */
+  margin-right: 3%;
+  margin-left:  3%;
+  margin-top: 2em;
+}
+h3 {
+  text-align: center; 
+  background-image: linear-gradient(to right, #abd26a, #9df6c7);
+  color:black;
+  margin-top:2em; 
+  margin-bottom:2em;
+}
+.lst {
+  text-align:center;
+  font-size:20px;
+  color:black;
+  padding: 20px 20px;
+}
+
+/* STYLE IMAGES */
+.frontP {
+  max-width:660px;
+  max-height:660px;
+ margin-top:2em;
+  margin-left:1em;
+
+}
+#cartoon {
+  max-width:1800px;
+  max-height:1800px;
+  margin-left:2em;
+}
+/* STYLE NAV BAR */
+  body{
+     margin: 0;
+   }
+   nav {
+     margin: 0;
+   }
+ ul{
+  list-st yle-type: none;
+   padding: 5px; /*makes nav smaller and more condense*/
+   margin: 0px;
+   background-color:white; 
+   tecentergn: center;
+}
+   li {
+   font-size: 1.5em;
+   font-family: Arial;
+    display: inline;
+     line-height: 55px;
+   }
+   li a {
+     text-decoration: none;
+     color: black; 
+     padding: 21px 260px;
+      /* spacing between context*/
+   }
+   
+ li a:hover {
+  background-color:black;
+   color: white;
+   
+ /*  padding:7px;*/
+}
+/* STYLE BUTTONS */
+#myBtn {
+  display: block;
+  margin: 0 auto;
+  background-color: #2a698999;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#quote {
+  text-align: center;
+  font-size:22px;
+  color:black;
+}
+/* ADD MORE! */
